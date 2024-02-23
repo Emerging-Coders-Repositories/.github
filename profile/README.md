@@ -6,8 +6,8 @@ Emerging Coders is a community for FGLI (First-generation, Low-income) students 
 
 ### What You Can Find Here
 
-- [x] **Past Event Repositories**: For all of our technical workshops and events, we have a repository that contains the slides, code, instruction sets, and other resources in case you missed the event or want to review the content.
-- [x] **Project Repositories**: We have repositories for all of our projects, including the code, documentation, and other resources. You can find the source code for our Website, Website API, and other projects in our GitHub organization.
+- **Past Event Repositories**: For all of our technical workshops and events, we have a repository that contains the slides, code, instruction sets, and other resources in case you missed the event or want to review the content.
+- **Project Repositories**: We have repositories for all of our projects, including the code, documentation, and other resources. You can find the source code for our Website, Website API, and other projects in our GitHub organization.
 
 Currently, this GitHub organization is ran by the current Emerging Coders Webmaster: [Ethan Pineda](https://www.linkedin.com/in/ethanpineda/)
 
