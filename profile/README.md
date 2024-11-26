@@ -1,4 +1,4 @@
-## [Emerging Coders](https://emerging-coders-website.vercel.app/)
+## [Emerging Coders](https://emerging-coders-repositories.github.io/Emerging-Coders-Website/)
 
 ### About Emerging Coders 👋👋
 
